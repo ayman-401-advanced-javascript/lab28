@@ -1,0 +1,49 @@
+
+*{
+    margin:0 ;
+}
+body{
+    background-color: rgb(0, 87, 102);
+    h1{
+        color: white;
+        margin-left: 7%;
+        position: absolute;
+        top: 20%;
+        
+
+    }
+    footer{
+        color: black;
+        position: absolute;
+        left: 40%;
+        font-size: 20px;
+        
+    }
+}
+header{
+    background-color: black;
+    margin: 16px 0 30px 0;
+    height: 60px;
+    position: relative;
+
+}
+.useInput{
+    width: 40%;
+    background-color: seashell;
+    height: 22px;
+}
+form{
+    margin-left: 60px;
+
+}
+.radio{
+    margin: 29px
+}
+.go{
+    width: 5.9%;
+    border-radius: 2px;
+    background-color: brown;
+}
+.json{
+    color: #000;
+}
