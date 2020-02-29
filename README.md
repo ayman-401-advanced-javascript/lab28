@@ -5,7 +5,7 @@
 ### Links and Resources
 
 - [submission PR]()
-- [ci/cd]() (GitHub Actions)
+- [ci/cd](https://github.com/ayman-401-advanced-javascript/lab28/runs/476803194?check_suite_focus=true) (GitHub Actions)
 
 ### Setup
 npm i react enzyme gh-pages node-sass
